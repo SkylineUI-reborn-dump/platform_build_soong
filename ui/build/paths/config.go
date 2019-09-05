@@ -112,6 +112,7 @@ var Configuration = map[string]PathConfig{
 	"arm-linux-androidkernel-ld": Allowed,
 	"curl":           Allowed,
 	"flock":          Allowed,
+	"nproc":          Allowed,
 	"perl":           Allowed,
 	"yes":            Allowed,
 
